@@ -1,7 +1,7 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+title:       A Good Place
+email:       baotrungtn@gmail.com
+author:      Trung Tran
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://pixyll.com"
